@@ -1,0 +1,101 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.header div {
+  margin: 10px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.inputArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: cadetblue;
+}
+
+.inputArea > div {
+  margin: 0px 10px;
+}
+
+.foto1 {
+  border-radius: 20px;
+}
+
+.input {
+  height: 30px;
+  font-size: medium;
+  text-align: left;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.searchIcon {
+  width: 20px;
+  float: left;
+  height: 25px;
+}
+
+.keyboardIcon {
+  width: 36px;
+  float: left;
+}
+
+.containerButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buton1 {
+  text-align: right;
+  width: 480px;
+  float: left;
+  padding-right: 20px;
+}
+
+.buton2 {
+  text-align: left;
+  width: 470px;
+  float: left;
+  margin-left: 10px;
+  padding-right: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fotoson {
+  width: 400px;
+  text-align: right;
+  float: left;
+}
+
+.yazıson {
+  text-align: left;
+  width: 590px;
+  float: left;
+  padding-top: 10px;
+  margin-left: 10px;
+}
+.butontipi1 {
+  background-color: #e7e7e7; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
